@@ -1,5 +1,8 @@
 # snake-game
 
+** 컴파일 & 링킹 명령어 ** `./make`
+** 실행 명령어 ** `./main`
+
 **[Stage 1]**
 - ncurses를 이용하여 map을 표시한다.
 - map 가에는 immune wall, wall, map의 나머지 부분에는 road가 존재한다.
